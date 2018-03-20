@@ -1,0 +1,4 @@
+
+
+http://www.runoob.com/linux/linux-shell-io-redirections.html
+
