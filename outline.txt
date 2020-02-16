@@ -3,9 +3,17 @@
 shell学习提纲
 
 
+interpretion language
+
+
+procedure oriented
+
+
 数据类型
     字符串
     数字
+
+    unlike to common language which based on arithmetic variable, shell is based on string.
 
 运算符
     算数运算符
@@ -29,6 +37,8 @@ shell学习提纲
 
 
 函数
+
+    file as function
 
 数组？
 
